@@ -1,0 +1,7 @@
+plugins {
+  id 'org.springframework.boot'
+}
+
+project.ext {
+  springBootVersion = defaultSpringBootVersion
+}

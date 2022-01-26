@@ -1,0 +1,8 @@
+plugins {
+    id "com.rivancic.convention-gradle-plugin"
+}
+
+println "Spring Boot Version = ${springBootVersion}"
+
+group 'com.rivancic'
+version '1.0-SNAPSHOT'
